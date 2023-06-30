@@ -1,1 +1,11 @@
-Test
+{
+    "defaultMaxHomes": 1,
+    "allowedDimensions": {
+        "overworld": true,
+        "nether": true,
+        "theend": true
+    },
+    "teleportCooldown": 30000,
+    "allowCrossDimensionTeleport": true,
+    "allowCrossDimensionTeleportForServerClaims": true
+}
